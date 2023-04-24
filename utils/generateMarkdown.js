@@ -44,6 +44,30 @@ function generateMarkdown(data) {
   - [Contributing](#contributing)
   ${renderLicenseLink(data.license)}
   - [Questions](#questions)
+
+  ## Installation 
+
+  ${data.install}
+
+  ## Usage
+
+  ${data.usage}
+
+  ## License
+
+  This project is license under ${data.license}
+
+  ## Contributing
+
+  ${data.contributors}
+
+  ## Tests
+
+  ${data.test}
+
+  ## Questions
+
+  If you have any questions about this project, please contact me directly at ${data.email}. You can view more of my projects at https://github.com/${data.github}.
 `;
 }
 
