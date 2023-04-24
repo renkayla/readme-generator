@@ -1,9 +1,9 @@
-# weather-dashboard
+# readmegenerator
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
   
-  it is a dashboard for weather
+  You can quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project.
   
   ## Table of Contents
   
@@ -12,4 +12,4 @@
   - [Tests](#tests)
   - [Contributing](#contributing)
   - [License](#license)
-  - [Questions
+  - [Questions](#questions)
