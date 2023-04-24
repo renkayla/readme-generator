@@ -11,16 +11,16 @@
   - [Usage](#usage)
   - [Tests](#tests)
   - [Contributing](#contributing)
-  - [License](#license)
   - [Questions](#questions)
 
   ## Installation 
-
+  
+  - [License](#license)
   undefined
 
   ## Usage
 
-  use Inquuirer from command line to answer questions about your project
+  the user should use inquirer form command line to answer questions about their project
 
   ## License
 
