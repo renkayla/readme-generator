@@ -15,12 +15,15 @@
 
   ## Installation 
   
+  The user should clone the repo from GitHub and download Node. This application requires a file system and Inquirer module.
   - [License](#license)
-  undefined
 
   ## Usage
-
-  the user should use inquirer form command line to answer questions about their project
+  
+  The user should use Inquirer 8.2.4 from the command line to answer questions about their project.
+  
+  https://user-images.githubusercontent.com/116777951/234138932-926d447e-38ac-4761-8e80-cea86acbb5c4.mp4
+  
 
   ## License
 
@@ -28,11 +31,11 @@
 
   ## Contributing
 
-  undefined
+  Contributors should read the Intallation section
 
   ## Tests
 
-  undefined
+ 
 
   ## Questions
 
