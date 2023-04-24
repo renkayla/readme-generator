@@ -42,11 +42,11 @@ function generateMarkdown(data) {
   - [Usage](#usage)
   - [Tests](#tests)
   - [Contributing](#contributing)
-  ${renderLicenseLink(data.license)}
   - [Questions](#questions)
 
   ## Installation 
-
+  
+  ${renderLicenseLink(data.license)}
   ${data.install}
 
   ## Usage
