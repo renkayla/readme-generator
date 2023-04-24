@@ -24,6 +24,8 @@
   
   https://user-images.githubusercontent.com/116777951/234138932-926d447e-38ac-4761-8e80-cea86acbb5c4.mp4
   
+  
+  To watch the full 03:45min demo video click the link below 
   [https://watch.screencastify.com/v/Il9UjFhAFp9FmroLKgZK](https://watch.screencastify.com/v/zO702SXrRSt2rl3Ulw4b)
 
   ## License
